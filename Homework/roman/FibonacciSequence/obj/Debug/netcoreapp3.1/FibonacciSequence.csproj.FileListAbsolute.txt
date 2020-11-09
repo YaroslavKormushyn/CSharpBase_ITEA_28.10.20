@@ -1,0 +1,13 @@
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\bin\Debug\netcoreapp3.1\FibonacciSequence.exe
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\bin\Debug\netcoreapp3.1\FibonacciSequence.deps.json
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\bin\Debug\netcoreapp3.1\FibonacciSequence.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\bin\Debug\netcoreapp3.1\FibonacciSequence.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\bin\Debug\netcoreapp3.1\FibonacciSequence.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\bin\Debug\netcoreapp3.1\FibonacciSequence.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.csprojAssemblyReference.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\FibonacciSequence\obj\Debug\netcoreapp3.1\FibonacciSequence.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\HomeworkLoops.exe
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\HomeworkLoops.deps.json
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\HomeworkLoops.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\HomeworkLoops.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\HomeworkLoops.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\HomeworkLoops.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.csprojAssemblyReference.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\HomeworkLoops.genruntimeconfig.cache

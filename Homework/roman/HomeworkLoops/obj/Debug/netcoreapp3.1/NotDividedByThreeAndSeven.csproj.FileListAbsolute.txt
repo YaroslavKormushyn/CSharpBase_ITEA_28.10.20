@@ -1,0 +1,12 @@
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.exe
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.deps.json
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\bin\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\HomeworkLoops\obj\Debug\netcoreapp3.1\NotDividedByThreeAndSeven.genruntimeconfig.cache
