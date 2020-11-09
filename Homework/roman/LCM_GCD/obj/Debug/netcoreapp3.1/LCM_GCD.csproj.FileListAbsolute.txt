@@ -1,0 +1,12 @@
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\bin\Debug\netcoreapp3.1\LCM_GCD.exe
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\bin\Debug\netcoreapp3.1\LCM_GCD.deps.json
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\bin\Debug\netcoreapp3.1\LCM_GCD.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\bin\Debug\netcoreapp3.1\LCM_GCD.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\bin\Debug\netcoreapp3.1\LCM_GCD.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\bin\Debug\netcoreapp3.1\LCM_GCD.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\obj\Debug\netcoreapp3.1\LCM_GCD.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\obj\Debug\netcoreapp3.1\LCM_GCD.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\obj\Debug\netcoreapp3.1\LCM_GCD.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\obj\Debug\netcoreapp3.1\LCM_GCD.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\obj\Debug\netcoreapp3.1\LCM_GCD.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\LCM_GCD\obj\Debug\netcoreapp3.1\LCM_GCD.genruntimeconfig.cache
