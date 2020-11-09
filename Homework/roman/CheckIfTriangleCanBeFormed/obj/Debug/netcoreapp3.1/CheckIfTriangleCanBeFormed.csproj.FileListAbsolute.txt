@@ -1,0 +1,13 @@
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\bin\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.exe
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\bin\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.deps.json
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\bin\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\bin\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\bin\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.dll
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\bin\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.pdb
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.csprojAssemblyReference.cache
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.dll
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.pdb
+C:\Users\dessoul\source\repos\HomeWork\CheckIfTriangleCanBeFormed\obj\Debug\netcoreapp3.1\CheckIfTriangleCanBeFormed.genruntimeconfig.cache

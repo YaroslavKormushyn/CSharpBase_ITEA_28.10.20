@@ -1,0 +1,12 @@
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\obj\Debug\netcoreapp3.1\ConvertsNumberToString.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\obj\Debug\netcoreapp3.1\ConvertsNumberToString.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\obj\Debug\netcoreapp3.1\ConvertsNumberToString.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\bin\Debug\netcoreapp3.1\ConvertsNumberToString.exe
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\bin\Debug\netcoreapp3.1\ConvertsNumberToString.deps.json
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\bin\Debug\netcoreapp3.1\ConvertsNumberToString.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\bin\Debug\netcoreapp3.1\ConvertsNumberToString.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\bin\Debug\netcoreapp3.1\ConvertsNumberToString.dll
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\bin\Debug\netcoreapp3.1\ConvertsNumberToString.pdb
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\obj\Debug\netcoreapp3.1\ConvertsNumberToString.dll
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\obj\Debug\netcoreapp3.1\ConvertsNumberToString.pdb
+C:\Users\dessoul\source\repos\HomeWork\ConvertsNumberToString\obj\Debug\netcoreapp3.1\ConvertsNumberToString.genruntimeconfig.cache
