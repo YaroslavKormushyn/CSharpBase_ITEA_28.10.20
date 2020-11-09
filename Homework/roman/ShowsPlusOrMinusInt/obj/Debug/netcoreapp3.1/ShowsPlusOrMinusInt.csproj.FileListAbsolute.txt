@@ -1,0 +1,13 @@
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\bin\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.exe
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\bin\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.deps.json
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\bin\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\bin\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\bin\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.dll
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\bin\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.pdb
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.csprojAssemblyReference.cache
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.dll
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.pdb
+C:\Users\dessoul\source\repos\HomeWork\ShowsPlusOrMinusInt\obj\Debug\netcoreapp3.1\ShowsPlusOrMinusInt.genruntimeconfig.cache

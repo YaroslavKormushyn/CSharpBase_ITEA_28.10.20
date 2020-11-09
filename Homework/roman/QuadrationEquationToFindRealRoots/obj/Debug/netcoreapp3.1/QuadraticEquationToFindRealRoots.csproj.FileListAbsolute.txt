@@ -1,0 +1,12 @@
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\bin\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.exe
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\bin\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.deps.json
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\bin\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\bin\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\bin\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.dll
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\bin\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.pdb
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\obj\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\obj\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\obj\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\obj\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.dll
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\obj\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.pdb
+C:\Users\dessoul\source\repos\HomeWork\QuadrationEquationToFindRealRoots\obj\Debug\netcoreapp3.1\QuadraticEquationToFindRealRoots.genruntimeconfig.cache
