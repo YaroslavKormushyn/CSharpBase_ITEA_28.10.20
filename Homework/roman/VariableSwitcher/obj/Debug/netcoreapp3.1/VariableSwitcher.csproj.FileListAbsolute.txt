@@ -1,0 +1,12 @@
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\bin\Debug\netcoreapp3.1\VariableSwitcher.exe
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\bin\Debug\netcoreapp3.1\VariableSwitcher.deps.json
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\bin\Debug\netcoreapp3.1\VariableSwitcher.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\bin\Debug\netcoreapp3.1\VariableSwitcher.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\bin\Debug\netcoreapp3.1\VariableSwitcher.dll
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\bin\Debug\netcoreapp3.1\VariableSwitcher.pdb
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\obj\Debug\netcoreapp3.1\VariableSwitcher.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\obj\Debug\netcoreapp3.1\VariableSwitcher.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\obj\Debug\netcoreapp3.1\VariableSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\obj\Debug\netcoreapp3.1\VariableSwitcher.dll
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\obj\Debug\netcoreapp3.1\VariableSwitcher.pdb
+C:\Users\dessoul\source\repos\HomeWork\VariableSwitcher\obj\Debug\netcoreapp3.1\VariableSwitcher.genruntimeconfig.cache
