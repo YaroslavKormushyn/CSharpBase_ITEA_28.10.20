@@ -1,0 +1,12 @@
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\bin\Debug\netcoreapp3.1\DecimalBinaryExchanger.exe
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\bin\Debug\netcoreapp3.1\DecimalBinaryExchanger.deps.json
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\bin\Debug\netcoreapp3.1\DecimalBinaryExchanger.runtimeconfig.json
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\bin\Debug\netcoreapp3.1\DecimalBinaryExchanger.runtimeconfig.dev.json
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\bin\Debug\netcoreapp3.1\DecimalBinaryExchanger.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\bin\Debug\netcoreapp3.1\DecimalBinaryExchanger.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\obj\Debug\netcoreapp3.1\DecimalBinaryExchanger.AssemblyInfoInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\obj\Debug\netcoreapp3.1\DecimalBinaryExchanger.AssemblyInfo.cs
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\obj\Debug\netcoreapp3.1\DecimalBinaryExchanger.csproj.CoreCompileInputs.cache
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\obj\Debug\netcoreapp3.1\DecimalBinaryExchanger.dll
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\obj\Debug\netcoreapp3.1\DecimalBinaryExchanger.pdb
+C:\Users\dessoul\source\repos\HomeworkLoops\DecimalBinaryExchanger\obj\Debug\netcoreapp3.1\DecimalBinaryExchanger.genruntimeconfig.cache
