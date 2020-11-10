@@ -21,6 +21,5 @@ namespace CalculateSumByFormula
             }
             Console.WriteLine("Result: " + sum);
         }
-
     }
 }

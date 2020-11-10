@@ -29,8 +29,7 @@ namespace LargeNumbersConvertToWord
                 result += units[num - 1];
                 Console.WriteLine("The number is " + result);
             }
-          
         }
     }
-    }
+}
 
