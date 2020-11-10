@@ -14,10 +14,8 @@ namespace CreateMatrix
                 for (int j = i; j <= i + N - 1; j++)
                 {
                     {
-
-                        Console.Write( j + "  ");
-
-                    }   
+                        Console.Write(j + "  ");
+                    }
                 }
                 Console.WriteLine();
             }

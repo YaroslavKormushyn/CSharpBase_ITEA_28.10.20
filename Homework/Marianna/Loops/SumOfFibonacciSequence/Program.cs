@@ -12,15 +12,14 @@ namespace SumOfFibonacciSequence
             int N = Int32.Parse(Console.ReadLine());
             int sum = 1;
             int currentSum = 0;
-                for (int i = 1; i < N-1; i++)
+            for (int i = 1; i < N - 1; i++)
             {
-                 currentSum=current+next;
+                currentSum = current + next;
                 current = next;
                 next = currentSum;
                 sum += currentSum;
-              
             }
-            Console.Write("Sum is "+sum);
+            Console.Write("Sum is " + sum);
         }
     }
 }

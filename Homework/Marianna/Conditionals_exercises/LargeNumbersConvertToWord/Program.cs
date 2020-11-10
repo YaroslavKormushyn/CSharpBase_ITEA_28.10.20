@@ -25,9 +25,11 @@ namespace LargeNumbersConvertToWord
                 num = num % 10;
             }
             if (num < 20 && num > 0)
+            {
                 result += units[num - 1];
-            Console.WriteLine("The number is " + result);
-            Console.ReadLine();
+                Console.WriteLine("The number is " + result);
+            }
+          
         }
     }
     }
