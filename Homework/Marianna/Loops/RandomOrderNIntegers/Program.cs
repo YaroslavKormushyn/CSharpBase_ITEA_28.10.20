@@ -13,9 +13,9 @@ namespace RandomOrderNIntegers
                 int n = Int32.Parse(Console.ReadLine());
                 int[] arr = new int[n];
 
-                for (int i = 0; i < arr.Length; i++)
+                for (int i = 0; i < n; i++)
                 {
-                    arr[i] = i;
+                    arr[i] = i+1;
                 }
 
                 foreach (int i in arr)
