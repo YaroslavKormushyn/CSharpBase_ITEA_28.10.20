@@ -25,8 +25,6 @@ namespace MaxAndMinOfSeriesOfIntegers
             }
             Console.WriteLine("Min element: " + min);
             Console.WriteLine("Max element: " + max);
-
-
         }
     }
 }

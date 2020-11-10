@@ -33,7 +33,6 @@ namespace RandomOrderNIntegers
                 {
                     Console.Write(arr[i] + " ");
                 }
-
             }
         }
     }

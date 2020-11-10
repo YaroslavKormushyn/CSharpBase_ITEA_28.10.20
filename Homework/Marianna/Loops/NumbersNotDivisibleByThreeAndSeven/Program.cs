@@ -14,7 +14,6 @@ namespace NumbersNotDivisibleByThreeAndSeven
                 if (!(i % 3 == 0 && i % 7 == 0))
                     Console.WriteLine(i + "\n");
             }
-
         }
     }
 }

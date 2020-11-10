@@ -15,7 +15,6 @@ namespace ZeroesEndFactorial
             Console.WriteLine("The value of factorial= " + N);
             int count = 0;
             while (N % 10 == 0)
-
             {
                 N /= 10;
                 count++;
