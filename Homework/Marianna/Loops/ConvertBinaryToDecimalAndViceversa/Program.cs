@@ -5,13 +5,12 @@ namespace ConvertBinaryToDecimalAndViceversa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the digit in relevance for input:\n" + " - if you want to convert from decimal to binary enter: 0\n " + "- if you want to convert from decimal to binary enter: 1\n");
+            Console.WriteLine("Please enter the digit in relevance for input:\n" + " - if you want to convert from decimal to binary enter: 0\n " + "- if you want to convert from  binary to decimal enter: 1\n");
             int caseSwitch = Int32.Parse(Console.ReadLine());
             switch (caseSwitch)
             {
                 case 0:
                     Console.Write("Enter decimal number: ");
-
                     int n = Int32.Parse(Console.ReadLine());
                     int remainder;
                     string result = string.Empty;
