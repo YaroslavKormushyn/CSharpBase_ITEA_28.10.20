@@ -22,7 +22,9 @@ namespace SumEqualCertainSequenceOfElements
                     return 1;
                 }
                 if (i < n)
+                {
                     curr_sum += arr[i];
+                }
             }
             Console.WriteLine("No subarray found");
             return 0;

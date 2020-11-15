@@ -16,17 +16,16 @@ namespace RectangularArrayFindMaxSumPlatform
                 Console.WriteLine();
             }
         }
-        static void MaxSumOfRaw(int[,] array, int n, int m)
+        static void MaxSumOfRow(int[,] array, int n, int m)
         {
             int[] rowSum = new int[n];
             for (int i = 0; i < n; i++)
             {
-
                 for (int j = 0; j < m; j++)
                 {
                     rowSum[i] += array[i, j];
                 }
-                Console.Write("Sum of elements {0} raw stored in the array is : {1}\n\n", i, rowSum[i]);
+                Console.Write("Sum of elements {0} row stored in the array is : {1}\n\n", i, rowSum[i]);
             }
             int sum = 0;
             for (int i = 0; i < n; i++)
@@ -37,7 +36,7 @@ namespace RectangularArrayFindMaxSumPlatform
         }
         static void Main()
         {
-            Console.Write("Enter the number of raws of the array : ");
+            Console.Write("Enter the number of rows of the array : ");
             if (!int.TryParse(Console.ReadLine(), out int n))
             {
                 Console.WriteLine("The wrong input! ");
@@ -63,7 +62,7 @@ namespace RectangularArrayFindMaxSumPlatform
                 }
             }
             PrintArray(array, n, m);
-            MaxSumOfRaw(array, n, m);
+            MaxSumOfRow(array, n, m);
         }
     }
 }

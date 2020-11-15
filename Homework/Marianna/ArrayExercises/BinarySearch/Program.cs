@@ -9,8 +9,10 @@ namespace BinarySearch
             Console.WriteLine("\nSorted array: ");
             int n = array.Length;
             for (int i = 0; i < n; i++)
+            {
                 Console.Write(array[i] + " ");
-            Console.WriteLine();
+                Console.WriteLine();
+            }
         }
         static void SelectionSort(int[] array)
         {
@@ -33,13 +35,13 @@ namespace BinarySearch
         static int BinarySearch(int[] array, int x)
         {
             int leftpoint = 0;
-             int rightpoint = array.Length - 1;
+            int rightpoint = array.Length - 1;
             while (leftpoint <= rightpoint)
             {
-               int midpoint = leftpoint + (rightpoint - leftpoint) / 2;
+                int midpoint = leftpoint + (rightpoint - leftpoint) / 2;
                 if (array[midpoint] == x)
                 {
-                    return midpoint; 
+                    return midpoint;
                 }
                 else if (array[midpoint] < x)
                 {
@@ -49,7 +51,7 @@ namespace BinarySearch
                 {
                     rightpoint = midpoint - 1;
                 }
-                }
+            }
             return -1;
         }
         static void Main()
@@ -78,13 +80,14 @@ namespace BinarySearch
             }
             SelectionSort(array);
             PrintArray(array);
-            int result=(BinarySearch(array, x));
+            int result = (BinarySearch(array, x));
             if (result == -1)
             {
                 Console.WriteLine("Element not present");
             }
-            else { 
-                Console.WriteLine("Element found at "  + "index " + result);
+            else
+            {
+                Console.WriteLine("Element found at " + "index " + result);
             }
         }
     }

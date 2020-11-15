@@ -10,8 +10,12 @@ namespace IndexesOfLatinLetters
             Console.Write("Enter the word: ");
             char[] word = (Console.ReadLine()).ToLower().ToCharArray();
             for (int i = 0; i < word.Length; i++)
+            {
                 for (int j = 0; j < letters.Length; j++)
+                {
                     if (word[i] == letters[j]) Console.Write("{0} ", j);
+                }
+            }
         }
     }
 }

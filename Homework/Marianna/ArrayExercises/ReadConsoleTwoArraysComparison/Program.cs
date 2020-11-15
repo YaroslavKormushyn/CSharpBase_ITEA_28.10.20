@@ -6,7 +6,6 @@ namespace ReadConsoleTwoArraysComparison
     {
         public static void Main()
         {
-            bool flag = true;
             Console.Write("Enter the length of the first array : ");
             if (!int.TryParse(Console.ReadLine(), out int length1))
             {
@@ -50,24 +49,16 @@ namespace ReadConsoleTwoArraysComparison
                     if (array1[i] != array2[i])
                     {
                         Console.WriteLine("The elements of two entered Arrays are not equal!");
-                        flag = false;
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("The two entered Arrays are equal!");
                         break;
                     }
                 }
-                if (flag)
-                {
-                    Console.WriteLine("The two entered Arrays are equal!");
+               
                 }
             }
         }
     }
-}
-
-
-
-
-
-
-
-
-
