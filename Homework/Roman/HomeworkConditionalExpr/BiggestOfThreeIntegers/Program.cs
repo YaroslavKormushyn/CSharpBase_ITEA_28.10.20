@@ -14,17 +14,17 @@ namespace BiggestOfThreeIntegers
             int c = Int32.Parse(Console.ReadLine());
 
             if (a > b)
-                if (a > c) Console.WriteLine("A is the biggest");
-                else if (a < c) Console.WriteLine("C is the biggest");
-                else Console.WriteLine("A and C are the biggest");
+                if (a > c) { Console.WriteLine("A is the biggest"); }
+                else if (a < c) { Console.WriteLine("C is the biggest"); }
+                else { Console.WriteLine("A and C are the biggest"); }
             else if (a < b)
-                if (b > c) Console.WriteLine("B is the biggest");
-                else if (b < c) Console.WriteLine("C is the biggest");
-                else Console.WriteLine("B and C are the biggest");
+                if (b > c) { Console.WriteLine("B is the biggest"); }
+                else if (b < c) { Console.WriteLine("C is the biggest"); }
+                else { Console.WriteLine("B and C are the biggest"); }
             else if (a == b)
-                if (a == c) Console.WriteLine("All are equal");
-                else if (a < c) Console.WriteLine("C is the biggest");
-                else Console.WriteLine("A and B are the biggest");
+                if (a == c) { Console.WriteLine("All are equal"); }
+                else if (a < c) { Console.WriteLine("C is the biggest"); }
+                else { Console.WriteLine("A and B are the biggest"); }
         }
     }
 }

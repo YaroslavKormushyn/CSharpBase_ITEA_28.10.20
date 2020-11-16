@@ -13,12 +13,13 @@ namespace SmallestAndLargestIntegers
 
             for (int i = 0; i < lenght; i++)
             {
-                Console.Write("Enter a number: ");
-                input = Int32.Parse(Console.ReadLine());
-                if (i == 0) lowest = highest = input;
-                else
                 {
-                    if (lowest > input) lowest = input;
+                    Console.Write("Enter a number: ");
+                    input = Int32.Parse(Console.ReadLine());
+                    if (i == 0) lowest = highest = input;
+                    else
+
+                        if (lowest > input) lowest = input;
                     if (highest < input) highest = input;
                 }
             }
