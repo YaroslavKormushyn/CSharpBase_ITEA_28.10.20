@@ -9,21 +9,21 @@ namespace ShapeClass
         public Pyramid(double a, double sideheight, double pyramidHeight) : base(a)
         {
             Apophema = sideheight;
-            PyramidH = pyramidHeight;
+            Height = pyramidHeight;
         }
         public double Apophema { get; set; }
-        public double PyramidH { get; set; }
+        public double Height { get; set; }
         public override double Area
         {
             get { return Math.Pow(base.Side, 2)* Math.Pow(3, 1/2)/4+  base.Side*3 * Apophema; }
         }
         public override double Volume
         {
-            get { return Math.Pow(base.Side, 2) * Math.Pow(3, 1 / 2) / 4 * PyramidH / 3;  }
+            get { return Math.Pow(base.Side, 2) * Math.Pow(3, 1 / 2) / 4 * Height / 3;  }
         }
         public override string ToString()
         {
-            return string.Format("It is a pyramid! " + base.ToString());
+            return "It is a pyramid! " + base.ToString();
         }
     }
 }

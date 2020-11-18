@@ -13,13 +13,16 @@ namespace ShapeClass
         {
             get { return 6 * Math.Pow(base.Side, 2); }
         }
+
         public override double Volume
         {
             get { return Math.Pow(base.Side, 3); }
         }
+
         public override string ToString()
         {
-            return string.Format("It is a cube! " + base.ToString());
+            return "It is a cube! " + base.ToString();
         }
+
     }
 }

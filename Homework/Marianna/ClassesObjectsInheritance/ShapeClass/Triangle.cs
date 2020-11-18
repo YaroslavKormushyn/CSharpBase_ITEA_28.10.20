@@ -8,16 +8,19 @@ namespace ShapeClass
     {
         public Triangle(double a, double height) : base(a)
         {
-            H = height;
+            Height = height;
         }
-        public double H { get; set; }
+        public double Height { get; set; }
+
         public override double Area
         {
-            get { return base.Side*H/2; }
+            get { return base.Side* Height / 2; }
         }
+
         public override string ToString()
         {
-            return string.Format("It is a triangle! " + base.ToString());
+            return "It is a triangle! " + base.ToString();
         }
+
     }
 }

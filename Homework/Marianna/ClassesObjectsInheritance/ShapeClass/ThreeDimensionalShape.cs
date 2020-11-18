@@ -10,10 +10,13 @@ namespace ShapeClass
         {
         }
         public override abstract double Area { get; }
+
         public abstract double Volume { get; }
+
         public override string ToString()
         {
-            return string.Format("It is a three-dimensional shape!");
+            return "It is a three-dimensional shape!";
         }
+
     }
 }

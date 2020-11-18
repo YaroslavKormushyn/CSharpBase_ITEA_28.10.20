@@ -8,12 +8,13 @@ namespace ShapeClass
     {
         public TwoDimensionalShape(double a): base(a)
         {
-
         }
         public override abstract double Area { get; }
+
         public override string ToString()
         {
-            return string.Format("It is a two-dimensional shape!");
+            return "It is a two-dimensional shape!";
         }
+
     }
 }
