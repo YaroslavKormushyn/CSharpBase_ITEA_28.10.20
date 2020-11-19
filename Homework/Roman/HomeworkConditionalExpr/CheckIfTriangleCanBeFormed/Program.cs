@@ -12,12 +12,9 @@ namespace CheckIfTriangleCanBeFormed
             Console.WriteLine("Input three angles of triangle : ");
             firstAngle = Convert.ToInt32(Console.ReadLine());
             secondAngle = Convert.ToInt32(Console.ReadLine());
-            thirdAngle = Convert.ToInt32(Console.ReadLine());
-
-             
+            thirdAngle = Convert.ToInt32(Console.ReadLine());          
             sum = firstAngle + secondAngle  + thirdAngle;
-
-            
+         
             if (sum == 180)
             {
                 Console.WriteLine("It is a valid triangle.\n");
@@ -26,7 +23,6 @@ namespace CheckIfTriangleCanBeFormed
             {
                 Console.WriteLine("It is an invalid triangle.\n");
             }
-
             Console.ReadLine();
         }
     }

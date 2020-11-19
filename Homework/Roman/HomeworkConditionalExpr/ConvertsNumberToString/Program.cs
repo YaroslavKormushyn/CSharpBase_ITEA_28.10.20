@@ -32,14 +32,14 @@ namespace ConvertsNumberToString
 
             if (hundreds >= 1 && tensAndOnes >= 1) Console.Write("and ");
 
-            if (tensAndOnes >= 20 && tensAndOnes < 30) Console.Write("Twenty");
-            else if (tensAndOnes >= 30 && tensAndOnes < 40) Console.Write("Thirty");
-            else if (tensAndOnes >= 40 && tensAndOnes < 50) Console.Write("Fourty");
-            else if (tensAndOnes >= 50 && tensAndOnes < 60) Console.Write("Fifty");
-            else if (tensAndOnes >= 60 && tensAndOnes < 70) Console.Write("Sixty");
-            else if (tensAndOnes >= 70 && tensAndOnes < 80) Console.Write("Seventy");
-            else if (tensAndOnes >= 80 && tensAndOnes < 90) Console.Write("Eighty");
-            else if (tensAndOnes >= 90 && tensAndOnes < 100) Console.Write("Ninety");
+            if (tensAndOnes >= 20 && tensAndOnes < 30) { Console.Write("Twenty"); }
+            else if (tensAndOnes >= 30 && tensAndOnes < 40) { Console.Write("Thirty"); }
+            else if (tensAndOnes >= 40 && tensAndOnes < 50) { Console.Write("Fourty"); }
+            else if (tensAndOnes >= 50 && tensAndOnes < 60) { Console.Write("Fifty"); }
+            else if (tensAndOnes >= 60 && tensAndOnes < 70) { Console.Write("Sixty"); }
+            else if (tensAndOnes >= 70 && tensAndOnes < 80) { Console.Write("Seventy"); }
+            else if (tensAndOnes >= 80 && tensAndOnes < 90) { Console.Write("Eighty"); }
+            else if (tensAndOnes >= 90 && tensAndOnes < 100) { Console.Write("Ninety"); }
 
             switch (tensAndOnes)
             {
