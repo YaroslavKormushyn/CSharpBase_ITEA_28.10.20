@@ -13,7 +13,6 @@ namespace HomeworkArrays
                 myArray[i] = i * 5;
                 Console.WriteLine(myArray[i]);
             }
-            
         }
     }
 }

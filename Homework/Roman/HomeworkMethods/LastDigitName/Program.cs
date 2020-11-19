@@ -7,7 +7,7 @@ namespace LastDigitName
         public static void LastDigitName(int number)
         {
             number = number % 10;
-            switch(number)
+            switch (number)
             {
                 case 1:
                     Console.WriteLine("One");
@@ -39,7 +39,7 @@ namespace LastDigitName
                 default:
                     Console.WriteLine("Wrong input");
                     break;
-            }     
+            }
         }
         static void Main(string[] args)
         {

@@ -4,12 +4,13 @@ namespace SortingArray
 {
     class Program
     {
-        public void selectSort(int[] arr) { 
+        public void SelectSort(int[] arr)
+        {
         }
+
         static void Main(string[] args)
         {
-
             Console.ReadLine();
-        }   
+        }
     }
 }

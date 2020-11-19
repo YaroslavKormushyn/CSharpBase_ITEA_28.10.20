@@ -6,7 +6,6 @@ namespace AreArraysEqual
     {
         static void Main(string[] args)
         {
-
             bool arraysEqual = true;
 
             Console.WriteLine("Enter lenght of first array: ");
@@ -47,4 +46,5 @@ namespace AreArraysEqual
                 Console.ReadLine();
             }
         }
-    }   }   
+    }
+}

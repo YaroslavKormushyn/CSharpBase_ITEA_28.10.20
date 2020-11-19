@@ -13,11 +13,11 @@ namespace GivenNumberReversedOrder
                 num = num / 10;
             }
             return rev_num;
-
         }
+
         static void Main(string[] args)
         {
-            int num = 5555;
+            int num = 1234;
             Console.WriteLine("Reverse of no. is " + Reverse(num));
         }
     }

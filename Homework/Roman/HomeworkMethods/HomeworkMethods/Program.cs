@@ -4,7 +4,7 @@ namespace HomeworkMethods
 {
     class Program
     {
-         static void ReturnUserName(string username)
+        static void ReturnUserName(string username)
         {
             Console.WriteLine("Hello " + username);
         }

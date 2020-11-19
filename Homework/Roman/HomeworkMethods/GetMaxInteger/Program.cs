@@ -3,7 +3,7 @@
 namespace GetMaxInteger
 {
     class Program
-    {     
+    {
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter the first number: ");
@@ -26,7 +26,6 @@ namespace GetMaxInteger
             }
             int result = GetMax(GetMax(a, b), c);
             Console.WriteLine("The biggest out of three provided numbers is: " + result);
-
         }
 
         public static int GetMax(int x, int y)
