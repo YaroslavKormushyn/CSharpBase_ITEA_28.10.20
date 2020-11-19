@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ShapeClass
 {
-    class Square: TwoDimensionalShape
+    class Square : TwoDimensionalShape
     {
         public Square(double a) : base(a)
         {
@@ -16,8 +14,7 @@ namespace ShapeClass
 
         public override string ToString()
         {
-            return "It is a square! "+base.ToString();
+            return "It is a square! " + base.ToString();
         }
-
     }
 }

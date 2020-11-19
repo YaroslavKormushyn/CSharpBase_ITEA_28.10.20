@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ShapeClass
+﻿namespace ShapeClass
 {
     abstract class Shape
     {
@@ -15,6 +11,5 @@ namespace ShapeClass
         public abstract double Area { get; }
 
         public abstract override string ToString();
-
     }
 }

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ShapeClass
+﻿namespace ShapeClass
 {
-  abstract class TwoDimensionalShape: Shape
+    abstract class TwoDimensionalShape : Shape
     {
-        public TwoDimensionalShape(double a): base(a)
+        public TwoDimensionalShape(double a) : base(a)
         {
         }
         public override abstract double Area { get; }
@@ -15,6 +11,5 @@ namespace ShapeClass
         {
             return "It is a two-dimensional shape!";
         }
-
     }
 }

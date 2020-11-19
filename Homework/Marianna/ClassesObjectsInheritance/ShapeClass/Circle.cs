@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ShapeClass
 {
@@ -16,8 +14,7 @@ namespace ShapeClass
 
         public override string ToString()
         {
-          return "It is a circle! " + base.ToString();
+            return "It is a circle! " + base.ToString();
         }
-
     }
 }

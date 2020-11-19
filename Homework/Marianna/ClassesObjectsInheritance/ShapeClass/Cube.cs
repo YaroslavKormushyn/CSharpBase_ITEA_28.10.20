@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ShapeClass
 {
@@ -23,6 +21,5 @@ namespace ShapeClass
         {
             return "It is a cube! " + base.ToString();
         }
-
     }
 }

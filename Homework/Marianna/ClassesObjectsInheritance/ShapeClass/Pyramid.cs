@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ShapeClass
 {
@@ -15,11 +13,11 @@ namespace ShapeClass
         public double Height { get; set; }
         public override double Area
         {
-            get { return Math.Pow(base.Side, 2)* Math.Pow(3, 1/2)/4+  base.Side*3 * Apophema; }
+            get { return Math.Pow(base.Side, 2) * Math.Pow(3, 1 / 2) / 4 + base.Side * 3 * Apophema; }
         }
         public override double Volume
         {
-            get { return Math.Pow(base.Side, 2) * Math.Pow(3, 1 / 2) / 4 * Height / 3;  }
+            get { return Math.Pow(base.Side, 2) * Math.Pow(3, 1 / 2) / 4 * Height / 3; }
         }
         public override string ToString()
         {

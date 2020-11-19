@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ShapeClass
+﻿namespace ShapeClass
 {
     class Triangle : TwoDimensionalShape
     {
@@ -14,13 +10,12 @@ namespace ShapeClass
 
         public override double Area
         {
-            get { return base.Side* Height / 2; }
+            get { return base.Side * Height / 2; }
         }
 
         public override string ToString()
         {
             return "It is a triangle! " + base.ToString();
         }
-
     }
 }

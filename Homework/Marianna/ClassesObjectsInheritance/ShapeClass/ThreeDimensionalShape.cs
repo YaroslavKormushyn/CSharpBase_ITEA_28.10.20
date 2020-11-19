@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ShapeClass
+﻿namespace ShapeClass
 {
-     abstract class ThreeDimensionalShape : Shape
+    abstract class ThreeDimensionalShape : Shape
     {
         public ThreeDimensionalShape(double a) : base(a)
         {
@@ -17,6 +13,5 @@ namespace ShapeClass
         {
             return "It is a three-dimensional shape!";
         }
-
     }
 }
