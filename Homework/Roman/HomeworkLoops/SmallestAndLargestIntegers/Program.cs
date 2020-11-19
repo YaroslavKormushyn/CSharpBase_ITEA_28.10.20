@@ -18,7 +18,6 @@ namespace SmallestAndLargestIntegers
                     input = Int32.Parse(Console.ReadLine());
                     if (i == 0) lowest = highest = input;
                     else
-
                         if (lowest > input) lowest = input;
                     if (highest < input) highest = input;
                 }
