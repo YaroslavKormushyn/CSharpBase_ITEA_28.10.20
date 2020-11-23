@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.TVProgram", "1.TVProgram\1.TVProgram.csproj", "{B0DE79F2-8286-4342-B3CC-EF92DB2B856C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_3.LightSources", "2_3.LightSources\2_3.LightSources.csproj", "{C5ACD4CD-0E1F-45AE-8A8B-B569BE1BBE98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0DE79F2-8286-4342-B3CC-EF92DB2B856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0DE79F2-8286-4342-B3CC-EF92DB2B856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DE79F2-8286-4342-B3CC-EF92DB2B856C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5ACD4CD-0E1F-45AE-8A8B-B569BE1BBE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5ACD4CD-0E1F-45AE-8A8B-B569BE1BBE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5ACD4CD-0E1F-45AE-8A8B-B569BE1BBE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5ACD4CD-0E1F-45AE-8A8B-B569BE1BBE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
