@@ -48,7 +48,7 @@ namespace _2_3.LightSources
 
         public void AddLightSources(List<ILightSource> arrayOfLightSources, int index)
         {
-            Console.WriteLine("Please enter the digit in the range 0-3:(0-to add Halogen LightSource ; 1-to add Incandescent LightSource; 2-to add CFL LightSource; 1-to add LED LightSource)");
+            Console.WriteLine("Please enter the digit in the range 0-3:(0-to add Halogen LightSource ; 1-to add Incandescent LightSource; 2-to add CFL LightSource; 3-to add LED LightSource)");
             int caseSwitch = Int32.Parse(Console.ReadLine());
             switch (caseSwitch)
             {

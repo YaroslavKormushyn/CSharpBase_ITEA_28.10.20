@@ -7,7 +7,70 @@ namespace _1.TVProgram
     {
         static void Main()
         {
-            TvProgram[] programs = new TvProgram[10];
+            int number;
+            int caseSwitch;
+            string nameOfProgram;
+            int ratingOfProgram;
+            DateTime startOfProgram;
+            DateTime endOfProgram;
+            Console.WriteLine("Please enter the number of Programs which you want to add to array:");
+            while (!int.TryParse(Console.ReadLine(), out number))
+            {
+                Console.WriteLine("The wrong input! Please enter the valid input!");
+            }
+            TvProgram[] programs = new TvProgram[number];
+            Console.WriteLine("Please enter the digit in the range 0-3:(0-to add Cartoon; 1-to add News; 2-to add Show; 3-to add Documentary)");
+            while ((!int.TryParse(Console.ReadLine(), out caseSwitch)) || caseSwitch > 3 || caseSwitch < 0)
+            {
+                Console.WriteLine("The wrong input! Please enter the valid input!");
+            }
+            Console.Write("Please enter the name of Program:");
+            nameOfProgram = Console.ReadLine();
+            Console.WriteLine("Please enter the rating of Program:");
+            while (!int.TryParse(Console.ReadLine(), out ratingOfProgram))
+            {
+                Console.Write("The wrong input! Please enter the valid input!");
+            }
+            Console.WriteLine("Please enter the start (DateTime format month/day/year hours:minutes:seconds AM/PM) of Program:");
+            while (!DateTime.TryParse(Console.ReadLine(), out startOfProgram))
+            {
+                Console.Write("The wrong input! Please enter the valid input!");
+            }
+            Console.Write("Please enter the start (DateTime format month / day / year hours: minutes:seconds AM / PM) of Program:");
+            while (!DateTime.TryParse(Console.ReadLine(), out endOfProgram))
+            {
+                Console.WriteLine("The wrong input! Please enter the valid input!");
+            }
+            for (int i = 0; i < number; i++)
+            {
+                switch (caseSwitch)
+                {
+                    case 0:
+                        {
+                            programs[i] = new Cartoon(nameOfProgram, ratingOfProgram, startOfProgram, endOfProgram);
+                            break;
+                        }
+                    case 1:
+                        {
+                            programs[i] = new News(nameOfProgram, ratingOfProgram, startOfProgram, endOfProgram);
+                            break;
+                        }
+                    case 2:
+                        {
+                            programs[i] = new Show(nameOfProgram, ratingOfProgram, startOfProgram, endOfProgram);
+                            break;
+                        }
+                    case 3:
+                        {
+                            programs[i] = new Documentary(nameOfProgram, ratingOfProgram, startOfProgram, endOfProgram);
+                            break;
+                        }
+                    default:
+                        Console.WriteLine("The wrong input!");
+                        break;
+                }
+            }
+            /*
             programs[0] = new Cartoon("Frozen", 10, DateTime.Parse("2020, 12, 01, 12:30:01 PM"), DateTime.Parse("2020, 12, 01, 15:50:01 PM"));
             programs[1] = new News("Toronto", 13, DateTime.Parse("2020, 10, 07, 12:20:01 PM"), DateTime.Parse("2020, 01, 27, 13:20:01 PM"));
             programs[2] = new Show("The Ellen DeGeneres Show", 1, DateTime.Parse("2020, 12, 20, 01:20:01 PM"), DateTime.Parse("2020, 12, 20, 03:42:20 PM"));
@@ -18,6 +81,7 @@ namespace _1.TVProgram
             programs[7] = new Cartoon("Mickey Mouse ", 7, DateTime.Parse("2020, 10, 21, 18:40:01 PM"), DateTime.Parse("2020, 10, 21, 18:55:01 PM"));
             programs[8] = new Cartoon("Gravity Falls", 2, DateTime.Parse("2020, 09, 20, 13:30:01 PM"), DateTime.Parse("2020, 09, 20, 15:30:01 PM"));
             programs[9] = new News("The Age of Mankind documentary", 1, DateTime.Parse("2020, 12, 04, 14:30:01 PM"), DateTime.Parse("2020, 12, 04, 18:30:01 PM"));
+            */
             Console.WriteLine("Descending order by Rating column:");
             IEnumerable<TvProgram> query = programs.OrderByDescending(program => program.Rating);
             foreach (TvProgram program in query)
